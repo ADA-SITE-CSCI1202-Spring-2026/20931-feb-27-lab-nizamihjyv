@@ -1,7 +1,8 @@
-public class Task8Test {
+public class Task8_Test {
 
     public static void main(String[] args) {
 
+        // We are creating 2 object here for each class and testing the equals method for each class.
         Person p1 = new Person("John", "Smith", "Male");
         Person p2 = new Person("John", "Smith", "Male");
 
